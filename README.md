@@ -33,5 +33,4 @@ This is what they look like when turned on in-game:
 These new parts can shoot laser related projectiles!
 The laser turret can be adjusted to be more optimal and functional at certain distances on land, while the plasma gun is general purpose and is also made for space!
 
-The README of the github is no longer going to be maintained. Please view the forum page instead for any updates after version 0.2! The first message of the thread will always be up to date.
-forum page: (https://jmnet.one/sfs/forum/index.php?threads/lasers-mod-v0-3.12654/)
+And more!
